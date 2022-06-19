@@ -1,2 +1,2 @@
 # Type-racer
-Simple type racer hack source
+type racer source, Example for developers not ment to be used...
