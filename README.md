@@ -1,2 +1,3 @@
 # Type-racer
 type racer source, Example for developers not ment to be used...
+Also dispaching keyboard events would be much better
