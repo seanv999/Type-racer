@@ -1,3 +1,2 @@
 # Type-racer
-type racer source, Example for developers not ment to be used...
-Also dispaching keyboard events would be much better
+Trash type racer hack made in a few minutes
